@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FIX MAN - Minecraft xizmatlari</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1b1b1b;
+      color: #f0f0f0;
+    }
+    header {
+      background: url("photo_2025-05-12_15-28-14.jpg") no-repeat center/cover;
+      padding: 80px 20px;
+      text-align: center;
+      color: #fff;
+    }
+    header h1 {
+      font-size: 48px;
+      margin: 0;
+      text-shadow: 2px 2px 8px #000;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .service {
+      background-color: #2b2b2b;
+      border-left: 5px solid #00ff99;
+      padding: 20px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+    }
+    .service-title {
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .service-price {
+      color: #00ff99;
+      margin-top: 5px;
+    }
+    .banner {
+      width: 100%;
+      margin-top: 40px;
+      border-radius: 12px;
+    }
+    .buttons {
+      margin-top: 30px;
+      text-align: center;
+    }
+    .buttons a {
+      background-color: #00aa00;
+      color: white;
+      text-decoration: none;
+      padding: 12px 25px;
+      margin: 10px;
+      display: inline-block;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    .buttons a:hover {
+      background-color: #008800;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      padding: 20px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>FIX MAN</h1>
+  <p>Minecraft xizmatlaringiz uchun ishonchli sherik</p>
+</header>
+
+<main>
+  <div class="service">
+    <div class="service-title">Datapack yasab berish</div>
+    <div class="service-price">8 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Mod yasab berish</div>
+    <div class="service-price">8 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Animatsiya yasab berish</div>
+    <div class="service-price">30 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Karta yasab berish</div>
+    <div class="service-price">45 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Youtuber serveriga kirish</div>
+    <div class="service-price">15 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Videoga g‘oya berish</div>
+    <div class="service-price">20 000 so'm</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Prevyu / Banner / Ava</div>
+    <div class="service-price">10 000 so‘mdan</div>
+  </div>
+  <div class="service">
+    <div class="service-title">Reklama</div>
+    <div class="service-price">25 000 so'm</div>
+  </div>
+
+  <img src="GEZTsila fix kot.png" alt="Minecraft preview" class="banner">
+
+  <div class="buttons">
+    <a href="https://t.me/FIXMAN_OFFICIAL" target="_blank">Bog‘lanish (Telegram)</a>
+    <a href="https://t.me/fixman_squid" target="_blank">Rasmiy kanal</a>
+  </div>
+</main>
+
+<footer>
+  &copy; 2025 FIX MAN. Barcha huquqlar himoyalangan.
+</footer>
+
+</body>
+</html>
